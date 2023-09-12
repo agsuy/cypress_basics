@@ -1,3 +1,3 @@
-#Run
+# Run
 
 `npx cypress open`
